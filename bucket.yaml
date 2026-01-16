@@ -1,7 +1,7 @@
 apiVersion: s3.aws.upbound.io/v1beta1
 kind: Bucket
 metadata:
-  name: my-bucket-WsKlpERP37iO  # CHANGE THIS to something unique!
+  name: my-project-crossplane-u1cvfd  # CHANGE THIS to something unique!
 spec:
   forProvider:
     region: ap-south-1
