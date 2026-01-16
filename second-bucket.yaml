@@ -1,9 +1,9 @@
-apiVersion: s3.aws.upbound.io/v1beta1
-kind: Bucket
-metadata:
-  name: my-project-19648646515684 # CHANGE THIS to something unique!
-spec:
-  forProvider:
-    region: us-east-1
-  providerConfigRef:
-    name: default
+# apiVersion: s3.aws.upbound.io/v1beta1
+# kind: Bucket
+# metadata:
+#   name: my-project-19648646515684 # CHANGE THIS to something unique!
+# spec:
+#   forProvider:
+#     region: us-east-1
+#   providerConfigRef:
+#     name: default
