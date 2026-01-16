@@ -4,6 +4,6 @@ metadata:
   name: my-project-crossplane-u1cvfd  # CHANGE THIS to something unique!
 spec:
   forProvider:
-    region: ap-south-1
+    region: us-east-1
   providerConfigRef:
     name: default
