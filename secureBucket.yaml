@@ -1,7 +1,7 @@
 apiVersion: mycompany.platform/v1alpha1
 kind: SecureBucket
 metadata:
-  name: my-test-bucket
+  name: my-test-bucket-hello-650181
   namespace: default
 spec:
   parameters:
