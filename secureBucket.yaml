@@ -1,7 +1,7 @@
 apiVersion: yagnesh.cloud/v1alpha1
 kind: SecureBucket
 metadata:
-  name: my-test-bucket-hello-650181
+  name: postgre-bucket
   namespace: default
 spec:
   parameters:
