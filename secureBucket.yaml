@@ -5,7 +5,7 @@ metadata:
   namespace: default
 spec:
   parameters:
-    location: "us-east-2"
+    region: "us-east-2"
     tags:
       Project: "Portfolio-Demo"
       Owner: "DevOps-Team"
