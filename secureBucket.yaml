@@ -1,0 +1,11 @@
+apiVersion: mycompany.platform/v1alpha1
+kind: SecureBucket
+metadata:
+  name: my-test-bucket
+  namespace: default
+spec:
+  parameters:
+    location: "us-east-2"
+    tags:
+      Project: "Portfolio-Demo"
+      Owner: "DevOps-Team"
